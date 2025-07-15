@@ -1,2 +1,3 @@
-# fk-tools
-Installer for FK Tools
+# FK Tools
+
+Personal use only, quick installer for my tools.
